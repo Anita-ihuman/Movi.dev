@@ -1,7 +1,9 @@
 ## Simplify Kubernetes Cluster Management with Kyverno
 
-The introduction of Kubernetes( K8s) was aimed at eliminating the difficulties and complexities encountered when deploying and scaling containerized applications. It has since grown in popularity and appears to be the most talked-about container orchestration tool. Yet, like every other fast-growing technology, K8s had its own downsides, such as configuration complexity, lack of automation, and security challenges with insecure defaults.
 
+
+The introduction of Kubernetes( K8s) was aimed at eliminating the difficulties and complexities encountered when deploying and scaling containerized applications. It has since grown in popularity and appears to be the most talked-about container orchestration tool. Yet, like every other fast-growing technology, K8s had its own downsides, such as configuration complexity, lack of automation, and security challenges with insecure defaults.
+![gif.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1630831637214/SLHs0uP7o.gif)
 
 To tackle this problem and maintain the standards of K8s, "Kubernetes policy management engines" were introduced by the community. These policy engines would then permit the automation and secure handling of Kubernetes configurations, by regulating configurations and which applications could run within a particular K8s cluster. This need resulted in the development of two CNCF projects and leading policy engines that can be leveraged to manage policies in a Kubernetes environment, [OPA](https://www.openpolicyagent.org/)  and  [Kyverno](https://kyverno.io/) 
 
