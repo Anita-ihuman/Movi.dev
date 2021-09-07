@@ -54,7 +54,7 @@ In a production cycle, developers create an application and hand it over to the 
 In Docker, developers and the operations team work together to transform those sets of instructions into a Docker file with the necessary requirements. This Docker file is therefore used to create a Docker image for the application. The image can run on any host with Docker on it and is guaranteed to run the same way anywhere until finally deployed. Most organisations have their application containerised and available in a public Docker repository called [Docker Hub.](Link) 
 
 ### Registry 
-The registry is a high sealable server-side application that stores and lets you distribute Docker images Images are found in a registry where developers, organisations and basically anyone can host their project for other developers to use (eg,  [hub.docker.com](https://hub.docker.com/),  [Quay.io](https://quay.io/)  &  [Amazon ECR](https://aws.amazon.com/ecr/).
+The registry is a highly scalable server-side application that stores and lets you distribute Docker images. Images are found in a registry where developers, organisations and basically anyone can host their project for other developers to use(eg,  [hub.docker.com](https://hub.docker.com/),  [Quay.io](https://quay.io/)  &  [Amazon ECR](https://aws.amazon.com/ecr/).
 )
 
 ** Types of registry**
