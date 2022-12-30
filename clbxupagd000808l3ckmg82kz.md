@@ -24,23 +24,23 @@ Self-sabotage is the act of undermining one’s success or happiness. This can t
 
 At the start of the year, just like everyone else, I had goals for every day for 365 days. I had written all that I hoped to achieve and all that I hoped to win because I was certain I would put in the work. Acquire all the knowledge I hoped to gain and all that there is to make myself proud. Top of this list of these goals were:
 
-*   To Earn the [CKAD certification](https://training.linuxfoundation.org/?SSAID=2575451&sscid=c1k6_qwou4)
+* To Earn the [CKAD certification](https://training.linuxfoundation.org/?SSAID=2575451&sscid=c1k6_qwou4)
     
-*   Get an apartment
+* Get an apartment
     
-*   Purchase a new laptop(Cause it was about time)
+* Purchase a new laptop(Cause it was about time)
     
-*   Speak at KubeCon in person.
+* Speak at KubeCon in person.
     
-*   Start content creating
+* Start content creating
     
-*   Gain more knowledge of cloud computing and DevOps
+* Gain more knowledge of cloud computing and DevOps
     
-*   Get more experience and understanding of Documentation and DEI best practices
+* Get more experience and understanding of Documentation and DEI best practices
     
-*   Become good at this Advocacy thing
+* Become good at this Advocacy thing
     
-*   Learn the art of networking
+* Learn the art of networking
     
 
 ### Battling Imposter syndrome
@@ -65,12 +65,12 @@ I almost did not notice it, but I was slowly getting more comfortable with being
 
 ### The Mistakes
 
-*   Fixating on the failures
+* Fixating on the failures
     
 
 It’s natural for humans to be sad and reflect on times when we were rejected or when nothing went as planned. However, when we fixate on these failures and shortcomings rather than focusing on their strengths and accomplishments, it can lead to negative self-talk that, over time, evolves into a feeling of inadequacy. I doubted my ability to do anything right because I could not get over the times I failed or received a rejection. For example, I found myself thinking about how I was laid off, how I failed my certification, and how I could not think of any content.
 
-*   Forgetting to remember
+* Forgetting to remember
     
 
 Most times, we get to a point where we forget who we are, why we started, how far we have come, and what we are capable of when we try. We forget that the journey is what makes us who we are.
@@ -79,12 +79,12 @@ While it seemed like the walls around me were all closing in on me, I could not 
 
 I found that I could no longer think outside the box because I had subconsciously put myself in it with my thoughts.
 
-*   Shutting everyone out
+* Shutting everyone out
     
 
 Imposter syndrome often has a way of making you feel so much shame that you assume everyone else is judging you. You suddenly develop this fear of your colleagues, friends, and family not seeing you with it all put together. The thought of everyone discovering I was not good enough made me cringe, so I hide from the world. I just assumed that if I ever shared how I was feeling, everyone would realize I’m not all that great. Not till I took the bold step of talking to a few friends about it did I realize it was all in my head.
 
-*   Putting pressure on yourself
+* Putting pressure on yourself
     
 
 Since I thought of myself as the problem, I consistently repeated the phrases “I need to do better” and “there must be something I am not doing right.” I thought this would help motivate me to try harder and get better, but I had no idea I was giving myself self-inflicted anxiety. I would say to myself, “If every other person can study for this certification in 4 months and ace it, I can too.”
@@ -97,33 +97,33 @@ While most people are quick to notice when something is wrong, others may not be
 
 ### The Lessons
 
-*   Learn to unlearn
+* Learn to unlearn
     
 
-You do not grow by holding onto past experiences when there are a thousand opportunities to create new ones every passing day. Thriving in today’s accelerated world requires adopting a learner’s mindset. So you must accept the natural discomfort that comes with letting go of the old and learning to master the new.
+You do not grow by holding onto past experiences when there are a thousand opportunities to create new ones every passing day. <mark>Thriving in </mark> [<mark>today’s accelerated world</mark>](https://www.forbes.com/sites/margiewarrell/2020/06/12/learn-unlearn--relearn-what-got-you-here-wont-get-you-there/) <mark> requires adopting a learner’s mindset</mark>. So you must accept the natural discomfort that comes with letting go of the old and learning to master the new.
 
 To overcome imposter syndrome, it can be helpful to “unlearn” the negative thought patterns and beliefs that contribute to it. This means figuring out what those limiting beliefs are making you think and challenging them. Then, you need to replace them with more balanced and realistic thoughts. For example, instead of telling yourself that you are not good enough or that you don’t deserve your success, try reframing these thoughts in a more positive light. For example, you might tell yourself that you have worked hard to achieve your success and that you are capable of continuing to learn and grow in your field.
 
-*   Practice self-appreciation
+* Practice self-appreciation
     
 
 One way to deal with imposter syndrome is to practice self-compassion. Self-compassion involves treating yourself with the same kindness and understanding that you would offer to a good friend. It means being gentle with yourself, acknowledging your struggles, and recognizing your growth so far.
 
 Be kind to yourself, and speak kindly to yourself. This will help to build self-esteem and combat negative self-talk. Challenge the negative thoughts and beliefs that keep threatening you. Instead of focusing on your shortcomings, focus on your strengths and accomplishments.
 
-*   The growth curve
+* The growth curve
     
 
 When you are working towards a goal, you will progress through different stages of learning and development that come with mixed feelings — some days are pleasant while other days are rarely comfortable. I am dealing with this by taking small steps towards my goals. Because in the end, the important part is the journey it took to achieve those goals.
 
 Recognize that everyone’s journey is unique, and the journey might not always be rosy. This will help you to focus on the progress you have made and the skills you have acquired rather than compare yourself to others or feel inadequate.
 
-*   Take a deep breath
+* Take a deep breath
     
 
 Every now and then, things don’t always go as planned. So don’t hate yourself for not feeling as vibrant and awesome as you normally would. It is important to remember that you and everyone else are continuously evolving. Just relax.
 
-*   Communicate how you feel.
+* Communicate how you feel.
     
 
 I had always been an introvert and was always too scared to speak up in meetings or contribute more. I felt like I didn’t have enough knowledge about the topics we were discussing in meetings. I would constantly think about what my colleagues would say if I said something wrong or was not able to answer a question.
@@ -132,30 +132,30 @@ It took time for me to realize that it was okay for me not to know everything ab
 
 You can overcome this feeling by communicating how you feel to friends, family, colleagues, or a trusted mentor. By talking about your concerns, doubts, and fears, you can gain a more realistic perspective on your abilities and accomplishments.
 
-*   Set realistic goals
+* Set realistic goals
     
 
 One way of dealing with imposter syndrome is to set realistic goals for yourself. By setting specific, achievable goals, you can measure progress and accomplishments more objectively. This can help you reduce feelings of self-doubt and increase confidence in your abilities.
 
 ### The wins
 
-*   I got the Apartment and the Macbook
+* I got the Apartment and the Macbook
     
-*   Became a member of the [Kubernetes Community Day Africa](https://community.cncf.io/events/details/cncf-kcd-africa-presents-kubernetes-community-days-africa-2022-virtual/) organising team
+* Became a member of the [Kubernetes Community Day Africa](https://community.cncf.io/events/details/cncf-kcd-africa-presents-kubernetes-community-days-africa-2022-virtual/) organising team
     
-*   Creating a template guide on [Documentation Landing pages](https://gitlab.com/tgdp/templates/-/issues/251)
+* Creating a template guide on [Documentation Landing pages](https://gitlab.com/tgdp/templates/-/issues/251)
     
-*   I lead the [CHAOSS DEI interview campaign with underrepresented groups](https://medium.com/@Anita-ihuman/call-to-participate-chaoss-dei-interview-campaign-with-underrepresented-groups-in-open-source-ce5578f8919a)
+* I lead the [CHAOSS DEI interview campaign with underrepresented groups](https://medium.com/@Anita-ihuman/call-to-participate-chaoss-dei-interview-campaign-with-underrepresented-groups-in-open-source-ce5578f8919a)
     
-*   I spoke at the [Linux Member Submit](https://lfms22.sched.com/) and more conferences
+* I spoke at the [Linux Member Submit](https://lfms22.sched.com/) and more conferences
     
-*   Started a [Youtube channel](https://www.youtube.com/channel/UCqwZs7BckaSmPnLuJ9VPUrQ)
+* Started a [Youtube channel](https://www.youtube.com/channel/UCqwZs7BckaSmPnLuJ9VPUrQ)
     
-*   Wrote awesome content this year on DevOps and Cloud technologies
+* Wrote awesome content this year on DevOps and Cloud technologies
     
-*   I am getting better at Dev Advocacy
+* I am getting better at Dev Advocacy
     
-*   I made great friends.
+* I made great friends.
     
 
 #### Appreciation
